@@ -16,7 +16,7 @@ class HeaderComponent extends Component {
                     <nav 
                     className="navbar navbar-dark bg-primary">
                         <div>
-                            <a href="http://localhost:3000"
+                            <a href="/users"
                                 className="navbar-brand">
                                     User Management App
                             </a></div>
