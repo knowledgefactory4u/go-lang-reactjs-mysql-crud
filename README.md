@@ -57,3 +57,4 @@ npm install
 ```
 npm start
 ```
+Access the URL via browser - http://localhost:3000
